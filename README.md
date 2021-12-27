@@ -6,4 +6,4 @@ Welcome to my little projects 😊
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonakls&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonakls&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jonakls&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jonakls&theme=github_dark)
