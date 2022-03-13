@@ -9,5 +9,5 @@ Welcome to my little projects 😊
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonakls&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonakls&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jonakls&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonakls&theme=github_dark) 
 
