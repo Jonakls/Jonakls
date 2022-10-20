@@ -2,14 +2,24 @@
 😁Hi there, I'm a student at the Central University of Colombia.
 Welcome to my little projects 😊
 
-<img src="https://anime-girls-holding-programming-books.netlify.app/static/Vigne_holds_Concepts_of_Programming_Languages_by_Sebesta-c6624439f25b0496a251c6ef666c82ce.png" width="300"/>
-
-![](https://komarev.com/ghpvc/?username=Jonakls&color=brightgreen)
-[![wakatime](https://wakatime.com/badge/user/b83bec8a-0073-42f8-9c13-9683a96ec095.svg)](https://wakatime.com/@b83bec8a-0073-42f8-9c13-9683a96ec095)
+---
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonakls&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonakls&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jonakls&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonakls&theme=github_dark)
+
+---
+
+![](https://komarev.com/ghpvc/?username=Jonakls&color=brightgreen)
+[![wakatime](https://wakatime.com/badge/user/b83bec8a-0073-42f8-9c13-9683a96ec095.svg)](https://wakatime.com/@b83bec8a-0073-42f8-9c13-9683a96ec095)
+
+[![Twitter](https://img.shields.io/badge/-@jonakls-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonakls)](https://twitter.com/jonakls) 
+[![Linkedin](https://img.shields.io/badge/-Jonathan%20Narvaez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-narvaez23/)](https://www.linkedin.com/in/jonathan-narvaez23/) 
+[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/JNarvaezPosada)
+[![GitHub followers](https://img.shields.io/github/followers/jonakls?label=Follow&style=social)](https://github.com/jonakls/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-asmot54@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asmot54@gmail.com)](mailto:asmot54@gmail.com)
+
+---
 
 
