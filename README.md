@@ -1,5 +1,5 @@
 ### Hi there
-😁Hi there, I'm a student at the Central University of Colombia.
+😁Hi there, I'm a student at the Compensar University Foundation of Colombia.
 Welcome to my little projects 😊
 
 ---
