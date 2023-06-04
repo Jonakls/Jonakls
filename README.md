@@ -13,14 +13,14 @@ Here you will find my progress with these programming languages or others not re
 
 | Language | Experience |
 | -------- | ---------- |
-| Java | 80% |
-| C# | 60% |
-| Python | 30% |
-| HTML | 50% |
-| CSS | 30% |
-| JavaScript | 30% |
-| TypeScript | 10% |
-| SQL | 70% |
+| Java | Medium |
+| C# | Medium |
+| Python | Basic |
+| HTML | Medium |
+| CSS | Basic |
+| JavaScript | Basic |
+| TypeScript | Basic |
+| SQL | Medium |
 
 ---
 
