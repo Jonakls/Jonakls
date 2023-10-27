@@ -4,7 +4,15 @@ Welcome to my little projects 😊
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jonakls&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonakls&theme=github_dark)
+
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonakls&theme=dark" alt="jonakls"/></p>
 
 ---
 
