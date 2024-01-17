@@ -1,7 +1,7 @@
 ## Hi there
 📖 I'm a student at the Compensar University Foundation of Colombia.
 
-🔵 Actually i work in [Litigando](https://www.litigando.com/)
+🔵 Currently I work at [Litigando](https://www.litigando.com/) as an Operations Engineering Developer.
 
 Welcome to my little projects 😊
 
